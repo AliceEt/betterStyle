@@ -1,10 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/index.vue'
+import Hello from './components/hello.vue'
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Wo" />
+  <Hello msg="Hello World" />
 </template>
 
 <style>

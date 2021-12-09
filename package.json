@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@nutui/nutui": "^3.1.12",
+    "js-lib-vue": "^1.1.2",
     "vue": "^3.2.16"
   },
   "devDependencies": {
